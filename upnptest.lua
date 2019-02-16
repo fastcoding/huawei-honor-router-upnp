@@ -38,5 +38,5 @@ end
 --local cm=uc:GetListOfPortMappings()
 --print('current pm:',inspect(cm))
 print('current external ip:',uc:GetExternalIPAddress())
---addMap()
+addMap()
 delMap()
